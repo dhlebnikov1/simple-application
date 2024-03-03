@@ -1,0 +1,4 @@
+image: nginx
+tag: 1.17.0
+
+replicas: 1
